@@ -64,3 +64,46 @@ We use a variety of technologies to power our project. Here’s a list of the ma
 
 Crafted an engaging and dynamic dashboard tailored for coffee sales analysis. This interactive platform offers stakeholders a user-friendly interface to explore key metrics, trends, and insights effortlessly.
 
+
+•	Utilized line charts to visualize sales trends over hours of the day, highlighting peak sales periods and identifying fluctuations in customer demand.
+
+
+•	Employed horizontal bar charts to depict daily sales performance, enabling easy comparison of sales figures across different days of the week.
+
+
+•	Utilized pie charts and donut charts to illustrate the percentage distribution of sales based on product sizes and categories, providing a clear visual representation of the contribution of each size and category to overall sales.
+
+
+•	Implemented column charts to display footfall and sales data for each store location, facilitating comparison of customer traffic and revenue generation across different stores.
+
+## Snapshot Of Dashboard
+
+![Screenshot 2024-08-22 202256](https://github.com/user-attachments/assets/db742a7e-7786-426a-8ebf-621534e614e1)
+
+
+### Busiest Days and Times: 
+•	The busiest hours for coffee sales are between 8:00 AM and 10:00 AM, indicating strong demand during morning rush hours.
+•	Mondays and Fridays tend to have the highest sales volumes, indicating increased demand at the beginning and end of the workweek.
+
+
+### Percentage share based on Size:
+•	Large-sized drinks dominate the sales representing the preferred choice among customers while Small-sized drinks are the least contributed.
+
+
+### Comparable Footfall Distribution:
+•	All stores exhibit almost similar level of foot traffic throughout the months, indicating a balanced distribution of customers across different locations. Similar footfall levels present equal opportunities for sales and revenue generation across all stores.
+
+
+### Percentage share based on Category:
+•	Coffee and Tea Categories  account for the largest percentage share of sales which is about 67% with Coffee being the most contributed(39%).
+
+### Top Products
+•	Barista Espresso emerges as the best-selling product, reflecting a strong demand for coffee among customers followed by Brewed Chai Tea ranks as the second-highest selling product.
+
+## Conclusions & Recommendations
+- **Focus marketing and promotions during morning hours, especially between 8:00 AM and 11:00 AM.**
+- Given the popularity of espresso and hot chocolate, consider expanding or highlighting these offerings.
+- Address the significant percentage of undefined order sizes for better inventory management.
+- Strengthen the presence and customer engagement in **Astoria**, the most profitable location.
+- Analyze the low footfall in **Hell's Kitchen** and consider strategies to boost sales there.
+- Enhance weekday promotions, especially on **Thursdays and Fridays**, when orders are lower.
