@@ -1,6 +1,7 @@
 # **☕Coffee Maven: Comprehensive Sales Analytics Dashboard 📈**
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uxxueGrkNQa40WaVyP5UQQhXwXnU6hikp5lkV09u9LpJFQL1btPY2hEhobyrkn3BGsw&usqp=CAU
+![image](https://github.com/user-attachments/assets/c8685c9e-b826-4dee-b2bc-5f0d51ea8dde)
+
 
 # Table of Contents
 
