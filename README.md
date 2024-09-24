@@ -76,8 +76,7 @@ Crafted an engaging and dynamic dashboard tailored for coffee sales analysis. Th
 
 ## Snapshot Of Dashboard
 
-![Screenshot 2024-08-22 202256](https://github.com/user-attachments/assets/db742a7e-7786-426a-8ebf-621534e614e1)
-
+![Screenshot 2024-08-22 175953](https://github.com/user-attachments/assets/6c0e9459-33db-4f2f-8fed-765252f4d8f6)
 
 ### Busiest Days and Times: 
 •	The busiest hours for coffee sales are between 8:00 AM and 10:00 AM, indicating strong demand during morning rush hours.
