@@ -1,7 +1,6 @@
 # **☕Coffee Maven: Comprehensive Sales Analytics Dashboard 📈**
 
-![image](https://github.com/user-attachments/assets/c8685c9e-b826-4dee-b2bc-5f0d51ea8dde)
-
+  ![lovepik-coffee-bean-picture_500651963](https://github.com/user-attachments/assets/31ec830f-70ff-4598-bcfb-1a910fe19b46)
 
 # Table of Contents
 
@@ -38,11 +37,10 @@ Coffee Maven is looking to improve its overall sales strategy by gaining deeper 
 
 # Tech Stack Used
 
-We use a variety of technologies to power our project. Here’s a list of the main technologies along with their logos:
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/b9c7bcc5-676f-4053-8dd9-29fddc8cd65b" alt="Logo 1" width="150">
-  <img src="https://github.com/user-attachments/assets/5e1cba88-4752-4ecd-b85d-3e0f0099aadc" alt="Logo 2" width="150">
-</div>
+
+![image](https://github.com/user-attachments/assets/da984a81-5a7c-4d6a-9f8e-9a90df913332)
+![power_query_smaller_256x216](https://github.com/user-attachments/assets/b2067884-0e79-41b3-bcf3-bae84e60d875)
+
 
 
 ## Data Structure
@@ -76,7 +74,7 @@ Crafted an engaging and dynamic dashboard tailored for coffee sales analysis. Th
 
 ## Snapshot Of Dashboard
 
-![Screenshot 2024-08-22 175953](https://github.com/user-attachments/assets/6c0e9459-33db-4f2f-8fed-765252f4d8f6)
+![Screenshot 2024-08-22 202256](https://github.com/user-attachments/assets/ab54041f-3ad5-48af-96ca-c15be86d1685)
 
 ### Busiest Days and Times: 
 •	The busiest hours for coffee sales are between 8:00 AM and 10:00 AM, indicating strong demand during morning rush hours.
